@@ -1,0 +1,10 @@
+# Release artifact
+*.zip
+
+# Editor / OS cruft
+*~
+*.swp
+*.swo
+.DS_Store
+.idea/
+.vscode/

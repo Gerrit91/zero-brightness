@@ -1,0 +1,8 @@
+{
+  "uuid": "zero-brightness@gerrit91.github.io",
+  "name": "Zero Brightness",
+  "description": "Lets the screen brightness keys dim the backlight all the way to zero (panel fully off), similar to macOS display brightness, and shows the regular GNOME brightness OSD.",
+  "shell-version": ["51"],
+  "url": "https://github.com/Gerrit91/zero-brightness",
+  "version-name": "0.1.0"
+}
